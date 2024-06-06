@@ -1,0 +1,17 @@
+Number	Carbon_source	Cultivation_type	CS_uptake_rate	Growth_rate_invivo	Growth_rate_GEM	Growth_rate_ecGEM	Reference
+1	Glucose	Batch	5.04007637824996	0.495	0.421	0.442	1
+2	Glucose	Batch	4.71813317347188	0.45	0.405	0.422	1
+4	Glucose	Continuous	1.22116388019272	0.1	0.088	0.113	3
+5	Glucose	Continuous	1.11014898199338	0.1	0.091	0.102	3
+6	Glucose	Continuous	2.8863873531828	0.25	0.233	0.275	3
+7	Glucose	Continuous	5.82828215546526	0.5	0.42	0.48	3
+9	Glucose	Batch	15.2	0.48	0.483	0.483	5
+10	Glucose	Batch	13.71	0.54	0.483	0.483	5
+11	Fructose	Batch	4.82904085257549	0.42	0.414	0.421	1
+12	Fructose	Batch	4.71802841918295	0.41	0.416	0.414	1
+13	Galactose	Batch	4.66262572437221	0.41	0.406	0.411	1
+14	Galactose	Batch	3.66349164057817	0.31	0.332	0.342	1
+15	Xylose	Batch	1.38	0.089	0.106	0.106	5
+16	Lactose	Batch	2.07420391469471	0.4	0.354	0.379	1
+17	Lactose	Batch	2.19106047326906	0.39	0.376	0.396	1
+21	Sucrose	Batch	2.19108607754692	0.42	0.373	0.395	1
